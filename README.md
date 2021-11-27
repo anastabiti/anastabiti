@@ -9,7 +9,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true&theme=great-jolly)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti)](https://github.com/anastabiti/github-readme-stats)
