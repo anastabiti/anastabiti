@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning C 
 - 📫 How to reach me: anastabiti@gmail.com 
 - ⚡ Fun fact: Zoro is lost again.. 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true)
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&theme=highcontrast_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti)](https://github.com/anastabiti/github-readme-stats)
 
 <!---
