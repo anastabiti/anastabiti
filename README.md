@@ -3,7 +3,7 @@
 # 🄷🄸 🅃🄷🄴🅁🄴 👋, 🄼🅈 🄽🄰🄼🄴 🄸🅂 🄰🄽🄰🅂 🅃🄰🄱🄸🅃🄸
 # ░▒▓█ I am  a 1337 student █▓▒░
 # 😎 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℂ
-###  🖥 How to reach me : anastabiti@gmail.com
+###  🖥 How to reach me : anastabiti @ gmail . com
 
 <!---
 anasbiti/anasbiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
