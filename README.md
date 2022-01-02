@@ -4,7 +4,7 @@
 # ░▒▓█ I am  a 1337 student █▓▒░
 # 😎 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℂ
 ###  🖥 How to reach me : anastabiti@gmail.com
-#  ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝗭𝗼𝗿𝗼 𝗶𝘀 𝗹𝗼𝘀𝘁 𝗮𝗴𝗮𝗶𝗻..  😂
+
 <!---
 anasbiti/anasbiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
