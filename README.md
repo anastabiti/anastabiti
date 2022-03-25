@@ -10,11 +10,10 @@ anasbiti/anasbiti is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-[![atabiti's 42 stats](https://badge42.vercel.app/api/v2/stats/cl16thzb3000609mol8ga11tz?cursusId=9)](https://github.com/JaeSeoKim/badge42)
-
 [![atabiti's 42 stats](https://badge42.vercel.app/api/v2/stats/cl16thzb3000609mol8ga11tz?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti)](https://github.com/anastabiti/github-readme-stats)
