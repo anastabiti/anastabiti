@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti)](https://github.com/anastabiti/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti&layout=donut-vertical)](https://github.com/anastabiti/github-readme-stats)
 
 
 # ft_transcendence  [![atabiti's 42 ft_transcendence Score](https://badge42.coday.fr/api/v2/clsfy10xh1349701p48rby0det/project/3386383)](https://github.com/Coday-meric/badge42)
