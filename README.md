@@ -2,9 +2,10 @@
 
 # 🄷🄸 🅃🄷🄴🅁🄴 👋, 🄼🅈 🄽🄰🄼🄴 🄸🅂 🄰🄽🄰🅂 🅃🄰🄱🄸🅃🄸
 #                                               ░▒▓█ I am  a student at 1337 school █▓▒░
-# O𝚕𝚍 : 😎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 C and C++
-# O𝚕𝚍 : 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚢𝚙𝚎𝚜𝚌𝚛𝚒𝚙𝚝/𝚗𝚘𝚍𝚎.𝚓𝚜/𝙽𝚎𝚜𝚝𝙹𝚂 
-# 𝚄𝚙𝚍𝚊𝚝𝚎 : N𝚘𝚠 𝚒'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙳𝚓𝚊𝚗𝚐𝚘
+# Old  : 😎 learning  C and C++
+# Old : Nestjs
+# OLD : Python/Djnago
+# NEW : I am working on my Internship Project 
 
 <!---
 anasbiti/anasbiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
