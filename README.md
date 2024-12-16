@@ -5,8 +5,7 @@
 # Old  : 😎 learning  C and C++
 # Old : Nestjs
 # OLD : Python/Djnago
-# NEW : I am working on my Internship Project 
-
+# OlD : I am working on my Internship Project 
 <!---
 anasbiti/anasbiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
