@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti&layout=donut-vertical)](https://github.com/anastabiti/github-readme-stats)
 
 ### **Programming Languages**  
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![C](https://img.shields.io/badge/-C-grey?logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) ![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus) ![C](https://img.shields.io/badge/Code-C-grey?logo=c) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript) 
 
 ---
 ### **Backend frameworks**  
