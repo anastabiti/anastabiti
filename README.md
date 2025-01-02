@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti&layout=donut-vertical)](https://github.com/anastabiti/github-readme-stats)
+![image](https://github.com/user-attachments/assets/34bb7d62-f173-4ce7-bd37-21a94f98207c)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabiti&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastabiti&layout=donut-vertical)](https://github.com/anastabiti/github-readme-stats)
 
 ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) ![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus) ![C](https://img.shields.io/badge/Code-C-grey?logo=c) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript) 
@@ -15,5 +16,6 @@
 
 ---
 
-### **Tools**  
+### **Tools and Services**  
 ![Kafka](https://img.shields.io/badge/-grafana-black?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-orange?logo=prometheus&logoColor=white) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+
