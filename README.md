@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Anas TABITI
 
-> Full-Stack Developer specializing in scalable web applications with expertise in backend development, API design, and DevOps practices. Experienced in building robust enterprise solutions using modern tech stacks and monitoring systems.
+> Backend Developer specializing in building scalable server architectures and distributed systems. Expertise in database optimization, API design, and system integration. Strong focus on performance tuning, microservices architecture, and DevOps automation. Experienced in developing robust enterprise solutions with emphasis on high availability and fault tolerance.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anastabiti/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome)](your-portfolio-url)
