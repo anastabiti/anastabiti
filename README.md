@@ -37,6 +37,8 @@
 ### Database Systems
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-336791?style=flat&logo=Neo4j&logoColor=white)
+
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
